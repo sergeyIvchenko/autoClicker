@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/teaching/autoClicker/clickerThread.cpp
+clickerThread.h
+D:/teaching/autoClicker/clickerThread.h
+chrono
+-
+
+D:/teaching/autoClicker/clickerThread.h
+windows.h
+-
+thread
+-
+atomic
+-
+condition_variable
+-
+mutex
+-
+
+D:/teaching/autoClicker/main.cpp
+iostream
+-
+clickerThread.h
+D:/teaching/autoClicker/clickerThread.h
+

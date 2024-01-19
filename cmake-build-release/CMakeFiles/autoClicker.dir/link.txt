@@ -1,0 +1,3 @@
+"D:\CLion 2022.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\autoClicker.dir/objects.a
+"D:\CLion 2022.1.2\bin\mingw\bin\ar.exe" qc CMakeFiles\autoClicker.dir/objects.a @CMakeFiles\autoClicker.dir\objects1.rsp
+"D:\CLion 2022.1.2\bin\mingw\bin\g++.exe" -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\autoClicker.dir/objects.a -Wl,--no-whole-archive -o autoClicker.exe -Wl,--out-implib,libautoClicker.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\autoClicker.dir\linklibs.rsp

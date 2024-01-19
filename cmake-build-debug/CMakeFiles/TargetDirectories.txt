@@ -1,0 +1,3 @@
+D:/teaching/autoClicker/cmake-build-debug/CMakeFiles/autoClicker.dir
+D:/teaching/autoClicker/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/teaching/autoClicker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
